@@ -1,0 +1,14 @@
+{
+  "name": "giri-calendar",
+  "version": "1.0.0",
+  "description": "CALENDAR BY GIRI",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erigiri, migigiri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
