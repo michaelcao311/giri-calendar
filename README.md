@@ -1,2 +1,2 @@
 # giri-calendar
-help giri make it to class on time!
+help erigiri make it to class on time!
